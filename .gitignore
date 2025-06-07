@@ -1,0 +1,12 @@
+# Ignore build outputs
+bin/
+obj/
+.vs/
+.git/
+Migrations/
+.config/
+*.bat
+*.zip
+
+
+.fake

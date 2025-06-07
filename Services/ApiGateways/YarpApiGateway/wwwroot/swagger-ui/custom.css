@@ -1,0 +1,16 @@
+﻿.swagger-ui .topbar {
+    background-color: #1e3a8a;
+}
+
+    .swagger-ui .topbar .download-url-wrapper .select-label {
+        color: white;
+    }
+
+.swagger-ui .info .title {
+    color: #1e3a8a;
+}
+
+.swagger-ui .scheme-container {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+}

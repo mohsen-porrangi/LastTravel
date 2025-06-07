@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "APIGateway",
+    "Projects": [
+      {
+        "Path": "Services\\WalletPayment\\API\\WalletPayment.API\\WalletPayment.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\ApiGateways\\YarpApiGateway\\YarpApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Order\\API\\Order.API\\Order.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

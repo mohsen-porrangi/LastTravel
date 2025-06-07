@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\Source\WalletRefactor-master\WalletRefactor-master\Services\UserManagement\UserManagement.API\bin\Debug\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2025-06-07T16:16:23.0526096Z||;True|2025-06-07T19:37:40.0607201+03:30||;True|2025-06-07T19:34:24.3122585+03:30||;True|2025-05-28T16:58:07.8815838+03:30||;True|2025-05-27T19:40:06.8880391+03:30||;True|2025-05-27T17:17:57.6026171+03:30||;True|2025-05-27T17:06:47.5611563+03:30||;True|2025-05-27T16:56:19.7882948+03:30||;True|2025-05-27T16:50:18.0830827+03:30||;True|2025-05-27T16:28:52.3980960+03:30||;True|2025-05-27T15:54:44.0806730+03:30||;False|2025-05-27T15:53:51.7563241+03:30||;True|2025-05-27T15:17:04.5255349+03:30||;True|2025-05-27T14:08:22.0204248+03:30||;True|2025-05-27T13:39:46.5142226+03:30||;True|2025-05-27T13:29:44.6428049+03:30||;True|2025-05-26T12:43:42.7257370+03:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
